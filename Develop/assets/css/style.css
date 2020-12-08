@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+div.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -59,12 +59,12 @@ p {
     background-position: center;
 }
 
-.float-left {
+img.float-left {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+img.float-right {
     float: right;
     margin-left: 25px;
 }
@@ -75,7 +75,7 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
+aside.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -130,7 +130,8 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-/* THIS WORKS YAY */
+
+/* added 3 classes to same selector to the same line (all had the same style) */
 
 .search-engine-optimization h2, 
 .online-reputation-management h2,
@@ -138,7 +139,6 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* looks good */
 
 .footer {
     padding: 30px;
