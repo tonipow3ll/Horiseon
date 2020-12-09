@@ -116,18 +116,12 @@ aside.benefits {
     color: #ffffff;
 }
 
-/* 3 more to block off */
+/* added 3 classes to same selector*/
 
-.search-engine-optimization img
+.search-engine-optimization img, 
+.online-reputation-management img, 
+.social-media-marketing img
  {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
     max-height: 200px;
 }
 
