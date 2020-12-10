@@ -1,6 +1,6 @@
 # Horiseon , Code Refactor
 ### Updated HTML / CSS for better accesibility as well as better SEO
-###
+#### I have made comments on the HTMl and CSS Style sheet with changes I made
 
 
 
