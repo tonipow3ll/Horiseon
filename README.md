@@ -1,6 +1,7 @@
 # Horiseon , Code Refactor
 
-### For this assignment we were tasked with updating HTML and CSS to meet modern accesibility standards, as well as follow semenatic HTML guidelines. 
+### For this assignment we were tasked with updating HTML and CSS to meet modern accesibility standards, as well as follow semenatic HTML guidelines.
+### [see the deployed project here] (https://tonipow3ll.github.io/Horiseon/)
 ### In this file I have updated HTML / CSS for better accesibility as well as better SEO (search engine optimization)
 
 #### I have made comments on the HTMl and CSS Style sheet with changes I made
